@@ -6,6 +6,7 @@ description: Interesting blog posts with optional notes and code
 
 ### Composing Software Series (author: Eric Elliot)
 * [ ] [1. Composing Software: An Introduction](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)
+* [ ] [2. The Rise and Fall and Rise of Functional Programming](https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c)
 
 ### Elegant Patterns in Modern Javascript (author: Bill Sourour)
 * [ ] [1. Receive an object, return an object (RORO)](https://medium.freecodecamp.org/elegant-patterns-in-modern-javascript-roro-be01e7669cbd)
