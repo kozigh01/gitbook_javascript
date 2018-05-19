@@ -1,8 +1,6 @@
----
-description: Options for running sample Javascript code
----
-
 # Running sample Javascript
+
+## Execution Options
 
 There are a couple different ways to run javascript code:
 
