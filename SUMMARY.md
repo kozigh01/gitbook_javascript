@@ -1,6 +1,6 @@
 # Table of contents
 
 * Javascript
-* [Blogs](es6.md)
+* [Blogs](blogs.md)
 * [Running sample Javascript](running-sample-javascript.md)
 
