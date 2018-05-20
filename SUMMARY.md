@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* Javascript
+* [Javascript](javascript.md)
 * [Blogs](blogs.md)
 * [Running sample Javascript](running-sample-javascript.md)
 
