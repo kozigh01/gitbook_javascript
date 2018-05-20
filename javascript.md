@@ -1,7 +1,3 @@
----
-description: Angular Resources and Examples
----
-
 # Javascript
 
 ### Resources
