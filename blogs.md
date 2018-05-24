@@ -21,5 +21,5 @@ description: Interesting blog posts with optional notes and code
 
 ## Misc
 
-* [ ] [Functional Programming with JavaScript Object Arrays](https://www.telerik.com/blogs/functional-programming-with-javascript-object-arrays)
+* [ ] Functional Programming with JavaScript Object Arrays: [Source](https://www.telerik.com/blogs/functional-programming-with-javascript-object-arrays)
 
