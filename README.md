@@ -21,3 +21,7 @@
 
 * [Material Design for Bootstrap 4](https://mdbootstrap.com/): [Tutorial](https://mdbootstrap.com/bootstrap-tutorial/)​
 
+## Screencasts
+
+* Scrimba: CSS Animation: [video](https://scrimba.com/c/cast-1596)
+
