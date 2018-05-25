@@ -2,10 +2,12 @@
 
 ## Courses
 
+#### Completed / In-progress
+
 * [ ] [Asynchronous Programming in JavaScript \(with Rx.js Observables\)](https://app.pluralsight.com/library/courses/asynchronous-javascript-rxjs-observables/table-of-contents)
 * [x] Scrimba: Learn Bootstrap 4: [Course](https://scrimba.com/g/gbootstrap4) \| [Code](https://github.com/kozigh01/scrimba_learn_bootstrap_4)
 
-
+#### Not started
 
 * ​[Scrimba: ES6 & Beyond](https://scrimba.com/playlist/p4Mrt9)​
 * LinkedInLearning: [Bootstrap 4 Essential Training](https://www.linkedin.com/learning/bootstrap-4-essential-training)​
