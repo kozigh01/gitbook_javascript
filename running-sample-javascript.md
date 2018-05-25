@@ -6,11 +6,11 @@ There are a couple different ways to run javascript code:
 
 1. Clone the repository containing the code and run node at terminal:
 
-```text
->git clone https://github.com/kozigh01/es6-iterators-generators.git
->cd es6-iterators-generators
->node <filename>.js
-```
+    ```text
+    >git clone https://github.com/kozigh01/es6-iterators-generators.git
+    >cd es6-iterators-generators
+    >node <filename>.js
+    ```
 
 2. Run the code in Chrome Dev Tools:
 
