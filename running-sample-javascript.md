@@ -2,7 +2,7 @@
 
 ## Execution Options
 
-There are a couple different ways to run javascript code:
+There are a few different ways to run javascript code:
 
 1. Clone the repository containing the code and run node at terminal:
 
@@ -22,6 +22,11 @@ There are a couple different ways to run javascript code:
     6. Click the "Ctrl+Enter" button at the bottom of the snippet editor to run the script in the context of the current page
     7. To run the script again, hit the browser reload button and then the "Ctrl-Enter" button again
     8. Breakpoints can be set in the script file
+
+3. Run the code in visual studio via an html file and use the Live Server plugin
+    1. Create an html file with script tag
+    2. While in the editor for that html file, click on the "Go Live" icon in the bottom status bar
+    3. Live Server will serve the file and open the browser to that html page
 
 ## References
 
