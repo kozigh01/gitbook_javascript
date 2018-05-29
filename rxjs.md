@@ -3,6 +3,7 @@
 ## Resources
 
 * [RxJS](https://rxjs-dev.firebaseapp.com/): Main site
+* [rxjs-tslint](https://github.com/ReactiveX/rxjs-tslint)
 * v5 -&gt; v6
   * Learn RxJS: [RxJS5 -&gt; RxJS6 Upgrade](https://www.learnrxjs.io/concepts/rxjs5-6.html)
   * Auth0: RxJS 6: [What's new and what has changed](https://auth0.com/blog/whats-new-in-rxjs-6/)
