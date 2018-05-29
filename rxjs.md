@@ -8,6 +8,7 @@
   * [RxJS v5.x to v6 Update Guide](https://github.com/ReactiveX/rxjs/blob/master/MIGRATION.md)
   * Learn RxJS: [RxJS5 -&gt; RxJS6 Upgrade](https://www.learnrxjs.io/concepts/rxjs5-6.html)
   * Auth0: RxJS 6: [What's new and what has changed](https://auth0.com/blog/whats-new-in-rxjs-6/)
+* [Reactive.how](http://reactive.how/):  Cédric Soulas
 
 ### Blogs
 
