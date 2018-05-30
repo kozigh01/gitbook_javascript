@@ -14,5 +14,6 @@
 
 ## Tutorials {#tutorials}
 
-* [Material Design for Bootstrap 4](https://mdbootstrap.com/): [Tutorial](https://mdbootstrap.com/bootstrap-tutorial/)​
+* [ ] [Material Design for Bootstrap 4](https://mdbootstrap.com/): [Tutorial](https://mdbootstrap.com/bootstrap-tutorial/)​
+* [ ] Pusher.com: [Build a polling web app with Next.js](https://pusher.com/tutorials/polling-web-app-nextjs)
 
