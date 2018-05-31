@@ -7,4 +7,5 @@
 * [RxJS](rxjs.md)
 * [NgRX](ngrx.md)
 * Node
+* [GraphQL](graphql.md)
 
