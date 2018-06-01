@@ -11,11 +11,14 @@
 * ​[Coursetro: Learn Bootstrap 4](https://coursetro.com/posts/code/130/Learn-Bootstrap-4-Final-in-2018-with-our-Free-Crash-Course)​
 * Scrimba: Learn Flexbox: [Course](https://scrimba.com/g/gflexbox)
 * Scrimba: Learn CSS Grid: [Course](https://scrimba.com/g/gR8PTE)
-* Scrimba: Learn Bulma CSS: [Course](https://scrimba.com/g/gbulma)
 * Pluralsight: Writing Functional Javascript Using Ramda: [Course](https://app.pluralsight.com/library/courses/javascript-ramda-functional/table-of-contents)
 
 ## Tutorials {#tutorials}
 
 * [ ] [Material Design for Bootstrap 4](https://mdbootstrap.com/): [Tutorial](https://mdbootstrap.com/bootstrap-tutorial/)​
 * [ ] Pusher.com: [Build a polling web app with Next.js](https://pusher.com/tutorials/polling-web-app-nextjs)
+
+## Tools
+
+* live-server: [git](https://www.npmjs.com/package/live-server)
 
