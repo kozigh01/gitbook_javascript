@@ -21,4 +21,5 @@
 ## Tools
 
 * live-server: [git](https://www.npmjs.com/package/live-server) \| [vs code plugin](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+* open in browser: [vs code plugin](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser)
 
