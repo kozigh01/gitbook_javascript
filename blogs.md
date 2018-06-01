@@ -22,4 +22,5 @@ description: Interesting blog posts with optional notes and code
 ## Misc
 
 * [ ] Functional Programming with JavaScript Object Arrays: [Source](https://www.telerik.com/blogs/functional-programming-with-javascript-object-arrays)
+* [ ] Level up with Bulma: [Source](https://medium.freecodecamp.org/free-course-level-up-with-bulma-css-d82dcb4b980a)
 
