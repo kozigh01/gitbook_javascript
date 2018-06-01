@@ -24,3 +24,7 @@
 * open in browser: [vs code plugin](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) \| [youtube](https://www.youtube.com/watch?v=T8DrI6K8ArE)
 * http-server: [npm](https://www.npmjs.com/package/http-server)
 
+## Misc
+
+* CSS in chrome console:  console.log\('%c' + 'testing', 'font-weight:bold;color:green'\)
+
