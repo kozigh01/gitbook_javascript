@@ -20,5 +20,5 @@
 
 ## Tools
 
-* live-server: [git](https://www.npmjs.com/package/live-server)
+* live-server: [git](https://www.npmjs.com/package/live-server) \| [vs code plugin](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
