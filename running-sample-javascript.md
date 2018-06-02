@@ -22,7 +22,7 @@ There are a few different ways to run javascript code:
    7. To run the script again, hit the browser reload button and then the "Ctrl-Enter" button again
    8. Breakpoints can be set in the script file
 3. Run the code in visual studio via an html file and use the Live Server plugin
-   1. Create an html file with script tag 
+   1. Create a new file with html extension, type html and select the "html:5" snippet option,  create a script tag with your javascript code
    2. While in the editor for that html file, click on the "Go Live" icon in the bottom status bar 
    3. Live Server will serve the file and open the browser to that html page
 
