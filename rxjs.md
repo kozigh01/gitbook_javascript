@@ -13,6 +13,7 @@
 ### Blogs
 
 * [ ] A Super Ninja Trick To Learn RxJS’s “switchMap”: [Blog](https://medium.com/@shairez/a-super-ninja-trick-to-learn-rxjss-switchmap-mergemap-concatmap-and-exhaustmap-forever-88e178a75f1b)
+* [ ] Subscribing to Multiple Observables in Angular Components: [Blog](https://coryrylan.com/blog/subscribing-to-multiple-observables-in-angular-components)
 
 ### Marbles
 
