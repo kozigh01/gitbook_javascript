@@ -3,8 +3,9 @@
 ## Courses
 
 * [ ] [Asynchronous Programming in JavaScript \(with Rx.js Observables\)](https://app.pluralsight.com/library/courses/asynchronous-javascript-rxjs-observables/table-of-contents)
+* [ ] The good parts of Javascript and the Web: [Course](https://www.linkedin.com/learning/the-good-parts-of-javascript-and-the-web/scope)
 * [x] Scrimba: Learn Bootstrap 4: [Course](https://scrimba.com/g/gbootstrap4) \| [Code](https://github.com/kozigh01/scrimba_learn_bootstrap_4)
-* [ ] LinkedInLearning - Javascript Prototypes: [Course](https://www.linkedin.com/learning/javascript-prototypes)
+* [x] LinkedInLearning - Javascript Prototypes: [Course](https://www.linkedin.com/learning/javascript-prototypes)
 * [x] ​Scrimba - ES6 & Beyond: [Course](https://scrimba.com/playlist/p4Mrt9)
 * [x] ​LinkedInLearning - [Bootstrap 4 Essential Training](https://www.linkedin.com/learning/bootstrap-4-essential-training)​
 * ​[Udemy: Complete Bootstrap 4 course - build 3 projects](https://www.udemy.com/bootstrap-4-tutorials/learn/v4/overview)​
