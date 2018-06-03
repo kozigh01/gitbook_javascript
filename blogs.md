@@ -26,6 +26,7 @@ description: Interesting blog posts with optional notes and code
 ## Misc
 
 * [ ] Functional Programming with JavaScript Object Arrays: [Source](https://www.telerik.com/blogs/functional-programming-with-javascript-object-arrays)
+* [ ] Explaining Value vs. Reference in Javascript: [Blog](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
 
 ## 
 
