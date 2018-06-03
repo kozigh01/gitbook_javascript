@@ -14,7 +14,10 @@
 
 * [ ] A Super Ninja Trick To Learn RxJS’s “switchMap”: [Blog](https://medium.com/@shairez/a-super-ninja-trick-to-learn-rxjss-switchmap-mergemap-concatmap-and-exhaustmap-forever-88e178a75f1b)
 * [ ] Subscribing to Multiple Observables in Angular Components: [Blog](https://coryrylan.com/blog/subscribing-to-multiple-observables-in-angular-components)
-
+* [ ]  [Coralie Mycek](https://medium.com/@coralie.mycek?source=post_header_lockup):
+  * [ ] Creating an Observable with Angular — Part I: a basic example: [Blog](https://medium.com/front-end-hacking/creating-an-observable-with-angular-part-i-a-basic-example-3302f1f87b52)
+  * [ ] Creating an Observable with Angular — Part II: the 4 different types: [Blog](https://medium.com/front-end-hacking/creating-an-observable-with-angular-part-ii-the-4-different-types-3d8fd2835850)
+* [ ] 
 ### Marbles
 
 ### Other
