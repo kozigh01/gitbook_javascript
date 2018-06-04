@@ -4,7 +4,7 @@ description: Writing plain Javascript without frameworks / libraries
 
 # Vanilla Javascript
 
-## Select Element
+## Select Element(s)
 
 * MDN: [querySelector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector) \| [querySelectorAll](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll)
 * Returns the first matched element reference, using a CSS selector
