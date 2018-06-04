@@ -4,8 +4,9 @@
 * [Javascript](javascript.md)
 * [Blogs](blogs.md)
 * [Running sample Javascript](running-sample-javascript.md)
-* [RxJS](rxjs.md)
+* [GraphQL](graphql.md)
 * [NgRX](ngrx.md)
 * [Node](node.md)
-* [GraphQL](graphql.md)
+* [RxJS](rxjs.md)
+* [Vanilla Javascript](vanilla-javascript.md)
 
