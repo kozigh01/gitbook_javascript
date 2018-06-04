@@ -4,16 +4,18 @@ description: Writing plain Javascript without frameworks / libraries
 
 # Vanilla Javascript
 
-### Select Element
+## Select Element
 
 * MDN: [querySelector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector) \| [querySelectorAll](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll)
 * Returns an element reference
+* Example
 
-### Fetch
+## Fetch
 
 * MDN: [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 * Basic Fetch
-    ```javascript
+
+  ```javascript
     fetch('https://jsonplaceholder.typicode.com/posts/1')
       .then(function(response) {    
         return response.json();  
@@ -21,5 +23,5 @@ description: Writing plain Javascript without frameworks / libraries
       .then(function(myJson) {    
         console.log(myJson);
       });
-    ```
+  ```
 
