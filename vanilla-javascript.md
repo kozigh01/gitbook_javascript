@@ -20,7 +20,7 @@ description: Writing plain Javascript without frameworks / libraries
 * MDN: [addEventListener](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
 * Example
     ```javascript
-    document.querySelector('li').addEventListener('click', () => {
+    document.querySelector('li').addEventListener('click', (event) => {
       // what should happen
     }, false);
     ```
