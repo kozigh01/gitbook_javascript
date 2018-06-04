@@ -17,7 +17,7 @@ description: Writing plain Javascript without frameworks / libraries
       document.querySelectorAll('.options div').forEach(option => { option.classList.remove('selected') });
     ```
 ## Events
-* MDN: (addEventListener)[https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener]
+* MDN: [addEventListener](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
 * Example
     ```javascript
     document.querySelector('li').addEventListener('click', () => {
