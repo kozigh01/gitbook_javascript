@@ -4,13 +4,13 @@ description: Writing plain Javascript without frameworks / libraries
 
 # Vanilla Javascript
 
+### QuerySelector / QuerySelectorAll
+
+* MDN: [querySelector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector) \| [querySelectorAll](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll)
+
 ### Fetch
 
-#### Resources
-
 * MDN: [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
-
-### Examples
 
 #### Basic Fetch
 
