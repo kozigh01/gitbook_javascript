@@ -16,7 +16,14 @@ description: Writing plain Javascript without frameworks / libraries
       // remove a class from every div element with a  parent that has a class of 'options'
       document.querySelectorAll('.options div').forEach(option => { option.classList.remove('selected') });
     ```
-
+## Events
+* MDN: (addEventListener)[https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener]
+* Example
+    ```javascript
+    document.querySelector('li').addEventListener('click', () => {
+      // what should happen
+    }, false);
+    ```
 ## Fetch
 
 * MDN: [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
