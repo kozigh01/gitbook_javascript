@@ -7,8 +7,12 @@ description: Writing plain Javascript without frameworks / libraries
 ## Select Element
 
 * MDN: [querySelector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector) \| [querySelectorAll](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll)
-* Returns an element reference
+* Returns the first matched element reference
 * Example
+    ```javascript
+      const location = document.querySelector('#location').value;
+      document.querySelector('#location').value = 'home';
+    ```
 
 ## Fetch
 
