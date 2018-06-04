@@ -22,6 +22,9 @@ description: Writing plain Javascript without frameworks / libraries
     ```javascript
     document.querySelector('li').addEventListener('click', (event) => {
       // what should happen
+      if(event !== undefined && event.target.classList.contains('selected') { // event.target is the element that triggered event
+        // do something
+      }
       e.preventDefault(); // if you want to prevent the default action, for example on a button
       var x = event.screenX; // for example, get the x value of a click
       var y = event.screenY; // for example, get the y value of a click
