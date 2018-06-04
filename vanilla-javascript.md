@@ -12,6 +12,9 @@ description: Writing plain Javascript without frameworks / libraries
     ```javascript
       const location = document.querySelector('#location').value;
       document.querySelector('#location').value = 'home';
+      
+      // remove a class from every div element with a  parent that has a class of 'options'
+      document.querySelectorAll('.options div').forEach(option => { option.classList.remove('selected') });
     ```
 
 ## Fetch
