@@ -10,4 +10,5 @@
 * [RxJS](rxjs.md)
 * [Vanilla Javascript](vanilla-javascript.md)
 * [Bootstrap](bootstrap.md)
+* [React / Redux](react-redux.md)
 
