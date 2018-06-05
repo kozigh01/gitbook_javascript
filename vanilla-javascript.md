@@ -61,7 +61,39 @@ description: Writing plain Javascript without frameworks / libraries
   ```javascript
   let container = document.createElement('div');
   let cityPara = document.createElement('p');
+  cityPara.setAttribute('class', 'city');
+  cityPara.textContent = state.city;
   let conditionPara = document.createElement('p');
+  conditionPara.textContent = state.tempC + '\u00b0 C / ' + state.tempF + '\u00b0 F';
   let iconImage = document.createElement('img');
+  iconImage.setAttribute('src', state.iconUrl);
+  iconImage.setAttribute('alt', state.description);
+  
+  conditionPara.appendChild(iconImage);
+  container.appendChild(cityPara);  // top displayed <p>
+  container.appendChild(conditionPara); // second displayed <p>
+  let parent = document.querySelector('.parent');
+  if (document.querySelector('.condition div')) {
+    parent.replaceChild(container, document.querySelector('.condition div'));
+  } else {
+    parent.appendChild(container);
+  }
+  
+  ...
+  let activitiesContainer = document.createElement('div');
+  let list = document.createElement('ul');
+  let activities = state.activities.map((activity, index) => {
+    let item = document.createElement('li');
+    item.textContent = activity;
+    item.setAttribute('key', index);
+    list.appendChild(item);
+  });
+  activitiesContainer.appendChild(list);
+  parent = document.querySelector('.parent');
+  if (document.querySelector('.activities div')) {
+    parent.replaceChild(activitiesContainer, document.querySelector('.activities div'));
+  } else {
+    parent.appendChild(activitiesContainer);
+  }
   
   ```
