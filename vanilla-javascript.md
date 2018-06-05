@@ -1,7 +1,11 @@
 ---
 description: Writing plain Javascript without frameworks / libraries
 ---
+
+# Vanilla Javascript
+
 ## Resources
+
 * Learning App Building with Vanilla JavaScript: [Course](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/create-elements-with-vanilla-javascript)
 
 ## Notes
@@ -11,6 +15,7 @@ description: Writing plain Javascript without frameworks / libraries
 * MDN: [querySelector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector) \| [querySelectorAll](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll)
 * Returns the first matched element reference, using a CSS selector
 * Example
+
   ```javascript
       const location = document.querySelector('#location').value;
       document.querySelector('#location').value = 'home';
@@ -23,6 +28,7 @@ description: Writing plain Javascript without frameworks / libraries
 
 * MDN: [addEventListener](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
 * Example
+
   ```javascript
     document.querySelector('li').addEventListener('click', (event) => {
       // what should happen
@@ -41,6 +47,7 @@ description: Writing plain Javascript without frameworks / libraries
 
 * MDN: [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 * Basic Fetch
+
   ```javascript
     fetch('https://jsonplaceholder.typicode.com/posts/1')
       .then(function(response) {    
@@ -50,14 +57,16 @@ description: Writing plain Javascript without frameworks / libraries
         console.log(myJson);
       });
   ```
-  
+
 ### DOM Manipulation
+
 * Functions / Properties:
-  * createElement() method
-  * setAttribute() method
-  * textContent() property
-  * appendChild() method
+  * createElement\(\) method
+  * setAttribute\(\) method
+  * textContent\(\) property
+  * appendChild\(\) method
 * Example:
+
   ```javascript
   let container = document.createElement('div');
   let cityPara = document.createElement('p');
@@ -68,7 +77,7 @@ description: Writing plain Javascript without frameworks / libraries
   let iconImage = document.createElement('img');
   iconImage.setAttribute('src', state.iconUrl);
   iconImage.setAttribute('alt', state.description);
-  
+
   conditionPara.appendChild(iconImage);
   container.appendChild(cityPara);  // top displayed <p>
   container.appendChild(conditionPara); // second displayed <p>
@@ -78,7 +87,7 @@ description: Writing plain Javascript without frameworks / libraries
   } else {
     parent.appendChild(container);
   }
-  
+
   ...
   let activitiesContainer = document.createElement('div');
   let list = document.createElement('ul');
@@ -95,10 +104,12 @@ description: Writing plain Javascript without frameworks / libraries
   } else {
     parent.appendChild(activitiesContainer);
   }
-  
   ```
-### CSS Transition Property
+
+  **CSS Transition Property**
+
 * CSS keyframes
+
   ```css
   @keyframes show-menu {
     0% {
@@ -112,11 +123,13 @@ description: Writing plain Javascript without frameworks / libraries
     }
   }
   ```
+
 * canvas element
-  * setInterval() function
-  * setTimeout() function
-  * requestAnimationFrame() method
+  * setInterval\(\) function
+  * setTimeout\(\) function
+  * requestAnimationFrame\(\) method
 * Example
+
   ```css
   .close {
     height: auto;
@@ -128,9 +141,13 @@ description: Writing plain Javascript without frameworks / libraries
     max-height: 250px;
   }
   ```
+
   ```javascript
     document.querySelector('.target').classList.add('open');
   ```
-### Babel
+
+  **Babel**
+
 * VS Code: [Babel REPL](https://marketplace.visualstudio.com/items?itemName=t-sauer.vscode-babel-repl)
 * Online: [Babel.io](http://babeljs.io/repl)
+
