@@ -2,11 +2,9 @@
 description: Writing plain Javascript without frameworks / libraries
 ---
 
-# Vanilla Javascript
+##Vanilla Javascript
 
-## Vanilla Javascript
-
-#### Select Element\(s\)
+###Select Element\(s\)
 
 * MDN: [querySelector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector) \| [querySelectorAll](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll)
 * Returns the first matched element reference, using a CSS selector
@@ -20,7 +18,7 @@ description: Writing plain Javascript without frameworks / libraries
       document.querySelectorAll('.options div').forEach(option => { option.classList.remove('selected') });
   ```
 
-  **Events**
+###Events
 
 * MDN: [addEventListener](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
 * Example
@@ -39,7 +37,7 @@ description: Writing plain Javascript without frameworks / libraries
     }, false);
   ```
 
-  **Fetch**
+###Fetch
 
 * MDN: [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 * Basic Fetch
