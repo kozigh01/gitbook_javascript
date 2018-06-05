@@ -32,5 +32,7 @@
 
 ## Misc
 
-* CSS in chrome console:  console.log\('%c' + 'testing', 'font-weight:bold;color:green'\)
+* CSS in chrome console:  `console.log\('%c' + 'testing', 'font-weight:bold;color:green'\)`
+* Douglas Crockford:
+  * [The little JavaScripter](http://crockford.com/javascript/little.html)
 
