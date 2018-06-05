@@ -53,8 +53,8 @@ description: Writing plain Javascript without frameworks / libraries
   ```
   
 ### DOM Manipulation
-* Functions:
-  * createElement()
-  * setAttribute()
-  * textContent()
-  * appendChild()
+* Functions / Properties:
+  * createElement() method
+  * setAttribute() method
+  * textContent() property
+  * appendChild() method
