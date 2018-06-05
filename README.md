@@ -2,7 +2,7 @@
 
 ## Courses
 
-* [ ] [Asynchronous Programming in JavaScript \(with Rx.js Observables\)](https://app.pluralsight.com/library/courses/asynchronous-javascript-rxjs-observables/table-of-contents)
+* [ ] Asynchronous Programming in JavaScript with Rx.js Observables: [Course](https://app.pluralsight.com/library/courses/asynchronous-javascript-rxjs-observables/table-of-contents)
 * [ ] The good parts of Javascript and the Web: [Course](https://www.linkedin.com/learning/the-good-parts-of-javascript-and-the-web/scope)
 * [ ] Learning App Building with Vanilla JavaScript: [Course](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript)
 * [x] Scrimba: Learn Bootstrap 4: [Course](https://scrimba.com/g/gbootstrap4) \| [Code](https://github.com/kozigh01/scrimba_learn_bootstrap_4)
