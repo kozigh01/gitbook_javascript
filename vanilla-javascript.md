@@ -112,3 +112,7 @@ description: Writing plain Javascript without frameworks / libraries
     }
   }
   ```
+* canvas element
+  * setInterval() function
+  * setTimeout() function
+  * requestAnimationFrame() method
