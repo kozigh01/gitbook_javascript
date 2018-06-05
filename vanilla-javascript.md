@@ -98,3 +98,17 @@ description: Writing plain Javascript without frameworks / libraries
   
   ```
 ### CSS Transition Property
+* CSS keyframes
+  ```css
+  @keyframes show-menu {
+    0% {
+      left: -150px;
+    }
+    50% {
+      left: -50px;
+    }
+    100% {
+      left: 100px;
+    }
+  }
+  ```
