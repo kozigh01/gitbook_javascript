@@ -25,7 +25,7 @@
 * live-server: [git](https://www.npmjs.com/package/live-server) \| [vs code plugin](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 * open in browser: [vs code plugin](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) \| [youtube](https://www.youtube.com/watch?v=T8DrI6K8ArE)
 * http-server: [npm](https://www.npmjs.com/package/http-server)
-* bable repl: [Online](http://babeljs.io/repl) | [vs code plugin](https://marketplace.visualstudio.com/items?itemName=t-sauer.vscode-babel-repl)
+* bable repl: [online](http://babeljs.io/repl) | [vs code plugin](https://marketplace.visualstudio.com/items?itemName=t-sauer.vscode-babel-repl)
 * Fake API endpoint: [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 
 ## Misc
