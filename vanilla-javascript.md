@@ -11,7 +11,6 @@ description: Writing plain Javascript without frameworks / libraries
 * MDN: [querySelector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector) \| [querySelectorAll](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll)
 * Returns the first matched element reference, using a CSS selector
 * Example
-
   ```javascript
       const location = document.querySelector('#location').value;
       document.querySelector('#location').value = 'home';
@@ -24,7 +23,6 @@ description: Writing plain Javascript without frameworks / libraries
 
 * MDN: [addEventListener](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
 * Example
-
   ```javascript
     document.querySelector('li').addEventListener('click', (event) => {
       // what should happen
@@ -43,7 +41,6 @@ description: Writing plain Javascript without frameworks / libraries
 
 * MDN: [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 * Basic Fetch
-
   ```javascript
     fetch('https://jsonplaceholder.typicode.com/posts/1')
       .then(function(response) {    
