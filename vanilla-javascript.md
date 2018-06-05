@@ -62,5 +62,6 @@ description: Writing plain Javascript without frameworks / libraries
   let container = document.createElement('div');
   let cityPara = document.createElement('p');
   let conditionPara = document.createElement('p');
+  let iconImage = document.createElement('img');
   
   ```
