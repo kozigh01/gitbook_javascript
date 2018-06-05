@@ -4,6 +4,8 @@ description: Writing plain Javascript without frameworks / libraries
 
 # Vanilla Javascript
 
+## Vanilla Javascript
+
 #### Select Element\(s\)
 
 * MDN: [querySelector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector) \| [querySelectorAll](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll)
