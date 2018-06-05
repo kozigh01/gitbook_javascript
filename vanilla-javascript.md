@@ -51,4 +51,10 @@ description: Writing plain Javascript without frameworks / libraries
         console.log(myJson);
       });
   ```
-
+  
+### DOM Manipulation
+* Functions:
+  * createElement()
+  * setAttribute()
+  * textContent()
+  * appendChild()
