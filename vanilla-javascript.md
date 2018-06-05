@@ -1,8 +1,10 @@
 ---
 description: Writing plain Javascript without frameworks / libraries
 ---
+## Resources
+* Learning App Building with Vanilla JavaScript: [Course](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/create-elements-with-vanilla-javascript)
 
-## Vanilla Javascript
+## Notes
 
 ### Select Element\(s\)
 
@@ -58,3 +60,10 @@ description: Writing plain Javascript without frameworks / libraries
   * setAttribute() method
   * textContent() property
   * appendChild() method
+* Example:
+  ```javascript
+  let container = document.createElement('div');
+  let cityPara = document.createElement('p');
+  let conditionPara = document.createElement('p');
+  
+  ```
