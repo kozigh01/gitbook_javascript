@@ -131,3 +131,6 @@ description: Writing plain Javascript without frameworks / libraries
   ```javascript
     document.querySelector('.target').classList.add('open');
   ```
+### Babel
+* VS Code: [Babel REPL](https://marketplace.visualstudio.com/items?itemName=t-sauer.vscode-babel-repl)
+* Online: [Babel.io](http://babeljs.io/repl)
