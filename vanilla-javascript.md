@@ -97,3 +97,4 @@ description: Writing plain Javascript without frameworks / libraries
   }
   
   ```
+### CSS Transition Property
