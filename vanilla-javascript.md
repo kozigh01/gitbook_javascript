@@ -116,3 +116,18 @@ description: Writing plain Javascript without frameworks / libraries
   * setInterval() function
   * setTimeout() function
   * requestAnimationFrame() method
+* Example
+  ```css
+  .close {
+    height: auto;
+    max-height: 0;
+    overflow-y: hidden;
+    transition: max-height 0.3s ease-out;
+  }
+  .open {
+    max-height: 250px;
+  }
+  ```
+  ```javascript
+    document.querySelector('.target').classList.add('open');
+  ```
