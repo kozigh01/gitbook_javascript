@@ -4,15 +4,15 @@
 
 * [ ] Asynchronous Programming in JavaScript with Rx.js Observables: [Course](https://app.pluralsight.com/library/courses/asynchronous-javascript-rxjs-observables/table-of-contents)
 * [ ] The good parts of Javascript and the Web: [Course](https://www.linkedin.com/learning/the-good-parts-of-javascript-and-the-web/scope)
-* [ ] * [x] Learning App Building with Vanilla JavaScript: [Course](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript)
+* [x] Learning App Building with Vanilla JavaScript: [Course](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript)
 * [x] LinkedInLearning - Javascript Prototypes: [Course](https://www.linkedin.com/learning/javascript-prototypes)
-* [x] ​Scrimba - ES6 & Beyond: [Course](https://scrimba.com/playlist/p4Mrt9)
 * CSS
   * Scrimba: Learn Flexbox: [Course](https://scrimba.com/g/gflexbox)
   * Scrimba: Learn CSS Grid: [Course](https://scrimba.com/g/gR8PTE)
 * ES6
   * [ ] Learning ECMAScript6: [Course](https://www.linkedin.com/learning/learning-ecmascript-6)
   * [ ] ES6: The Right Parts: [Course](https://www.linkedin.com/learning/es6-the-right-parts)
+  * [x] ​Scrimba - ES6 & Beyond: [Course](https://scrimba.com/playlist/p4Mrt9)
 * Functional Programming:
   * Functional JavaScript Libraries Playbook: [course](https://app.pluralsight.com/library/courses/functional-javascript-libraries-playbook/table-of-contents)
   * Pluralsight: Writing Functional Javascript Using Ramda: [Course](https://app.pluralsight.com/library/courses/javascript-ramda-functional/table-of-contents)
