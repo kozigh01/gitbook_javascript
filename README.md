@@ -1,6 +1,6 @@
 # Introduction
 
-## Courses
+### Courses
 
 * [ ] Asynchronous Programming in JavaScript with Rx.js Observables: [Course](https://app.pluralsight.com/library/courses/asynchronous-javascript-rxjs-observables/table-of-contents)
 * [ ] The good parts of Javascript and the Web: [Course](https://www.linkedin.com/learning/the-good-parts-of-javascript-and-the-web/scope)
@@ -22,12 +22,16 @@
   * Pluralsight: Functional JavaScript Libraries Playbook: [course](https://app.pluralsight.com/library/courses/functional-javascript-libraries-playbook/table-of-contents)
   * Pluralsight: Writing Functional Javascript Using Ramda: [Course](https://app.pluralsight.com/library/courses/javascript-ramda-functional/table-of-contents)
 
-## Tutorials {#tutorials}
+### Tutorials
 
 * [ ] [Material Design for Bootstrap 4](https://mdbootstrap.com/): [Tutorial](https://mdbootstrap.com/bootstrap-tutorial/)​
 * [ ] Pusher.com: [Build a polling web app with Next.js](https://pusher.com/tutorials/polling-web-app-nextjs)
 
-## Tools
+### Libraries
+
+* immutable: [site](https://facebook.github.io/immutable-js/)
+
+### Tools
 
 * live-server: [git](https://www.npmjs.com/package/live-server) \| [vs code plugin](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 * open in browser: [vs code plugin](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) \| [youtube](https://www.youtube.com/watch?v=T8DrI6K8ArE)
@@ -35,7 +39,7 @@
 * bable repl: [online](http://babeljs.io/repl) \| [vs code plugin](https://marketplace.visualstudio.com/items?itemName=t-sauer.vscode-babel-repl)
 * Fake API endpoint: [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 
-## Misc
+### Misc
 
 * CSS in chrome console:  `console.log\('%c' + 'testing', 'font-weight:bold;color:green'\)`
 * Douglas Crockford:
