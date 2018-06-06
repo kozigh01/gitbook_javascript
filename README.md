@@ -33,6 +33,7 @@
 ### Libraries
 
 * immutable: [site](https://facebook.github.io/immutable-js/)
+* Font Awesome: [site](https://fontawesome.com/)
 
 ### Tools
 
