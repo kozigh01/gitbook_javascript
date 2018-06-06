@@ -11,3 +11,7 @@
 * [Vanilla Javascript](vanilla-javascript.md)
 * [React / Redux](react-redux.md)
 
+## Functional Programming
+
+* [Functional JavaScript Libraries Playbook](functional-programming/functional-javascript-libraries-playbook.md)
+
