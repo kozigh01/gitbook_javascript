@@ -16,6 +16,7 @@
 * CSS
   * Scrimba: Learn Flexbox: [Course](https://scrimba.com/g/gflexbox)
   * Scrimba: Learn CSS Grid: [Course](https://scrimba.com/g/gR8PTE)
+  * Scrimba: Learn Bulma CSS: [Course](https://scrimba.com/g/gbulma)
 * ES6
   * [ ] Learning ECMAScript6: [Course](https://www.linkedin.com/learning/learning-ecmascript-6)
   * [ ] ES6: The Right Parts: [Course](https://www.linkedin.com/learning/es6-the-right-parts)
