@@ -6,7 +6,7 @@
 * [ ] The good parts of Javascript and the Web: [Course](https://www.linkedin.com/learning/the-good-parts-of-javascript-and-the-web/scope)
 * [x] Learning App Building with Vanilla JavaScript: [Course](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript)
 * [x] LinkedInLearning - Javascript Prototypes: [Course](https://www.linkedin.com/learning/javascript-prototypes)
-* [x] * Bootstrap
+* Bootstrap
   * [x] ​LinkedInLearning - [Bootstrap 4 Essential Training](https://www.linkedin.com/learning/bootstrap-4-essential-training)​
   * [x] Scrimba: Learn Bootstrap 4: [Course](https://scrimba.com/g/gbootstrap4) \| [Code](https://github.com/kozigh01/scrimba_learn_bootstrap_4)
   * ​[Udemy: Complete Bootstrap 4 course - build 3 projects](https://www.udemy.com/bootstrap-4-tutorials/learn/v4/overview)​
