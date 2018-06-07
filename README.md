@@ -42,6 +42,7 @@
 * http-server: [npm](https://www.npmjs.com/package/http-server)
 * bable repl: [online](http://babeljs.io/repl) \| [vs code plugin](https://marketplace.visualstudio.com/items?itemName=t-sauer.vscode-babel-repl)
 * Fake API endpoint: [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
+* fa2png.io \(Font Awesome to PNG\): [site](http://fa2png.io/) 
 
 ### Misc
 
