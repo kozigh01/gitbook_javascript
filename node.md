@@ -2,6 +2,7 @@
 
 ## Resources
 
+* Node.js: [site](https://nodejs.org/en/)
 * Nest.js: [Site](https://nestjs.com/) \| [Docs](https://docs.nestjs.com/) \| [Git](https://github.com/nestjs/nest)
 * Azure:
   * Azure for Node.js developers: [site](https://docs.microsoft.com/en-us/javascript/azure/?view=azure-node-latest)
