@@ -6,7 +6,8 @@ description: Writing plain Javascript without frameworks / libraries
 
 ## Resources
 
-* Learning App Building with Vanilla JavaScript: [Course](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/create-elements-with-vanilla-javascript)
+* [x] Learning App Building with Vanilla JavaScript: [Course](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/create-elements-with-vanilla-javascript)
+* [ ] Javascript30 \(30 projects/30 days\): [site](https://javascript30.com/)
 
 ## Notes
 
