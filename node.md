@@ -11,6 +11,10 @@
 * Hapi.js: [site](https://hapijs.com/) \| [youtube](https://www.youtube.com/watch?v=2lprC0yYeFw&feature=youtu.be)
 * mLab
 
+## Courses
+
+* [ ] Building APIs Using Hapi in Node.js: [course](https://www.linkedin.com/learning/building-apis-using-hapi-in-node-js)
+
 ## Blogs
 
 * Nest 5: The official release 🚀 Node.js in 2018: [Blog](https://medium.com/@kammysliwiec/nest-5-the-official-release-node-js-in-2018-1b6d3a47b104)
