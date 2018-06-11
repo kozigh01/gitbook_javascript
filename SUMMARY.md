@@ -7,6 +7,7 @@
 * [GraphQL](graphql.md)
 * [NgRX](ngrx.md)
 * [Node](node.md)
+* [Mongo](mongo.md)
 * [RxJS](rxjs.md)
 * [Vanilla Javascript](vanilla-javascript.md)
 * [React / Redux](react-redux.md)

@@ -8,6 +8,7 @@ description: Writing plain Javascript without frameworks / libraries
 
 * [x] Learning App Building with Vanilla JavaScript: [Course](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/create-elements-with-vanilla-javascript)
 * [ ] Javascript30 \(30 projects/30 days\): [site](https://javascript30.com/)
+* [ ] Drag & Drop With Vanilla JS: [youtube](https://www.youtube.com/watch?v=C22hQKE_32c)
 
 ## Notes
 
@@ -107,7 +108,7 @@ description: Writing plain Javascript without frameworks / libraries
   }
   ```
 
-  **CSS Transition Property**
+**CSS Transition Property**
 
 * CSS keyframes
 
@@ -147,7 +148,7 @@ description: Writing plain Javascript without frameworks / libraries
     document.querySelector('.target').classList.add('open');
   ```
 
-  **Babel**
+**Babel**
 
 * VS Code: [Babel REPL](https://marketplace.visualstudio.com/items?itemName=t-sauer.vscode-babel-repl)
 * Online: [Babel.io](http://babeljs.io/repl)

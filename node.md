@@ -8,6 +8,8 @@
   * Azure for Node.js developers: [site](https://docs.microsoft.com/en-us/javascript/azure/?view=azure-node-latest)
   * Building Cloud-Native Applications with Node.js and Azure: [book](https://azure.microsoft.com/en-us/resources/building-cloud-native-applications-with-node-js-and-azure/en-us/)
   * VS Code Azure Extension Pack: [marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-azureextensionpack)
+* Hapi.js: [site](https://hapijs.com/) \| [youtube](https://www.youtube.com/watch?v=2lprC0yYeFw&feature=youtu.be)
+* mLab
 
 ## Blogs
 
