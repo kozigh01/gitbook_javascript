@@ -13,7 +13,7 @@
 
 ## Courses
 
-* [ ] Building APIs Using Hapi in Node.js: [course](https://www.linkedin.com/learning/building-apis-using-hapi-in-node-js)
+* [ ] Building APIs Using Hapi in Node.js: [course](https://www.linkedin.com/learning/building-apis-using-hapi-in-node-js) \| [github](https://github.com/synedra/hapi-api)
 
 ## Blogs
 
