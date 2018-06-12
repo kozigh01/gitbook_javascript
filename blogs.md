@@ -16,7 +16,7 @@ description: Interesting blog posts with optional notes and code
 
 ### CodingTheSmartWay.com
 
-* [site](blogs.md#codingthesmartway-com)
+* [https://codingthesmartway.com/](https://codingthesmartway.com/)
 * Angular Material And Angular 6 – Material Design For Angular: [blog](https://codingthesmartway.com/angular-material-and-angular-6-material-design-for-angular/) \| [youtube](https://www.youtube.com/watch?v=bGReOt6r4ww&feature=youtu.be)
 * Material Design Components For Angular Part 1: Introduction: [blog](https://codingthesmartway.com/angular-material-introduction/) \| [youtube](https://www.youtube.com/watch?v=7MDRv3428X0&feature=youtu.be)
 * Material Design Components For Angular Part 2: Popups & Modals: [blog ](https://codingthesmartway.com/angular-material-part-2-popups-modals-dialogs-tooltips-and-snackbars/)\| [youtube](https://www.youtube.com/watch?v=xJJ_NDqvuCk&feature=youtu.be)
