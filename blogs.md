@@ -14,6 +14,15 @@ description: Interesting blog posts with optional notes and code
 * [ ] [1. Receive an object, return an object \(RORO\)](https://medium.freecodecamp.org/elegant-patterns-in-modern-javascript-roro-be01e7669cbd)
 * [ ] [2. Ice Factory](https://medium.freecodecamp.org/elegant-patterns-in-modern-javascript-ice-factory-4161859a0eee)
 
+### CodingTheSmartWay.com
+
+* [site](blogs.md#codingthesmartway-com)
+* Angular Material And Angular 6 – Material Design For Angular: [blog](https://codingthesmartway.com/angular-material-and-angular-6-material-design-for-angular/) \| [youtube](https://www.youtube.com/watch?v=bGReOt6r4ww&feature=youtu.be)
+* Material Design Components For Angular Part 1: Introduction: [blog](https://codingthesmartway.com/angular-material-introduction/) \| [youtube](https://www.youtube.com/watch?v=7MDRv3428X0&feature=youtu.be)
+* Material Design Components For Angular Part 2: Popups & Modals: [blog ](https://codingthesmartway.com/angular-material-part-2-popups-modals-dialogs-tooltips-and-snackbars/)\| [youtube](https://www.youtube.com/watch?v=xJJ_NDqvuCk&feature=youtu.be)
+* Material Design Components For Angular Part 3: Navigation: [blog ](https://codingthesmartway.com/angular-material-part-3-navigation-menus-sidenavs-and-toolbars/)\| [youtube](https://www.youtube.com/watch?v=-k73oWFrRoE&feature=youtu.be)
+* Material Design Components For Angular  Part 4: Data Table: [blog ](https://codingthesmartway.com/angular-material-part-4-data-table/)\| [youtube](https://codingthesmartway.com/angular-material-part-4-data-table/)
+
 ### ES6
 
 * [x] ES6 Iterators and Generators: [Code](https://github.com/kozigh01/es6-iterators-generators) \| [Source](https://codeburst.io/a-simple-guide-to-es6-iterators-in-javascript-with-examples-189d052c3d8e)
