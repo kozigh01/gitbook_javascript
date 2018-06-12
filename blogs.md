@@ -4,10 +4,19 @@ description: Interesting blog posts with optional notes and code
 
 # Blogs
 
-### Composing Software Series \(author: Eric Elliot\)
+### Functional Programming
+
+#### Composing Software Series \(author: Eric Elliot\)
 
 * [ ] [1. Composing Software: An Introduction](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)
 * [ ] [2. The Rise and Fall and Rise of Functional Programming](https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c)
+
+#### HackerNoon: Functional programming paradigms in modern JavaScript  -  [Alexander Kondov](https://hackernoon.com/@KondovAlexander?source=post_header_lockup)
+
+* [ ] 01 Pure functions: [blog](https://hackernoon.com/functional-programming-paradigms-in-modern-javascript-pure-functions-797d9abbee1)
+* [ ] 02 Immutability: [blog](https://hackernoon.com/functional-programming-paradigms-in-modern-javascript-immutability-4e9751ca005c)
+* [ ] 03 Function Composition: [blog](https://hackernoon.com/functional-programming-paradigms-in-modern-javascript-function-composition-109670038859)
+* [ ] 04 Currying: [blog](https://hackernoon.com/functional-programming-paradigms-in-modern-javascript-currying-5652e489cce8)
 
 ### Elegant Patterns in Modern Javascript \(author: Bill Sourour\)
 
