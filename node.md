@@ -14,7 +14,6 @@
 ## Courses
 
 * [ ] Building APIs Using Hapi in Node.js: [course](https://www.linkedin.com/learning/building-apis-using-hapi-in-node-js) \| [github](https://github.com/synedra/hapi-api)
-* [ ]  How to set-up a powerful API with Nodejs, GraphQL, MongoDB, Hapi, and Swagger​: [blog](https://medium.freecodecamp.org/how-to-setup-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-e251ac189649)
 
 ## Blogs
 
