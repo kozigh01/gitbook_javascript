@@ -24,5 +24,5 @@
 
 ### Helpful commands
 
-* Initialize \(create package.json, default answers\): npm init -y
+* Initialize \(create package.json, default answers\): `npm init -y`
 
