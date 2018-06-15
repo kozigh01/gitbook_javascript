@@ -20,3 +20,9 @@
 * Nest 5: The official release 🚀 Node.js in 2018: [Blog](https://medium.com/@kammysliwiec/nest-5-the-official-release-node-js-in-2018-1b6d3a47b104)
 * [ ]  How to set-up a powerful API with Nodejs, GraphQL, MongoDB, Hapi, and Swagger​: [blog](https://medium.freecodecamp.org/how-to-setup-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-e251ac189649)
 
+## NPM
+
+### Helpful commands
+
+* Initialize \(create package.json, default answers\): npm init -y
+
