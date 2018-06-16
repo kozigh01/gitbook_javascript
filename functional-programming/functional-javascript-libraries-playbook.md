@@ -1,7 +1,3 @@
----
-description: Pluralsight course
----
-
 # Functional JavaScript Libraries Playbook
 
 ## Course Info
