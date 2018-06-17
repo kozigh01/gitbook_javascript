@@ -15,4 +15,5 @@
 ## Functional Programming
 
 * [Functional JavaScript Libraries Playbook](functional-programming/functional-javascript-libraries-playbook.md)
+* [FP Resources](functional-programming/fp-resources.md)
 
