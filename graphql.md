@@ -1,5 +1,9 @@
 # GraphQL
 
+## Courses
+
+* [ ]  Build GraphQL APIs with Node.js on MongoDB: [egghead.io](https://egghead.io/courses/build-graphql-apis-with-node-js-on-mongodb?utm_source=drip&utm_medium=email&utm_term=graphql&utm_content=graphql-node-mongodb)
+
 ## Blogs
 
 * How to set-up a powerful API with Nodejs, GraphQL, MongoDB, Hapi, and Swagger: [blog](https://medium.freecodecamp.org/how-to-setup-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-e251ac189649)
