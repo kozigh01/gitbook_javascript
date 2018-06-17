@@ -16,3 +16,13 @@
 * [ ] How-to… Bootstrap: [blog](https://medium.com/wdstack/how-to-bootstrap-94abe3525442)
 * [ ] How the Bootstrap 4 Grid Works: [blog](https://uxplanet.org/how-the-bootstrap-4-grid-works-a1b04703a3b7)
 
+### Notes
+
+#### **Responsive Breakpoints, based on screen width:**
+
+* \(xs\) — screen width &lt; 576px \(This is the “default” tier\)
+* sm — screen width ≥ 576px
+* md — screen width ≥ 768px
+* lg— screen width ≥ 992px
+* xl — screen width ≥ 1200px
+
