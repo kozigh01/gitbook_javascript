@@ -4,10 +4,15 @@
 
 * [ ]  Build GraphQL APIs with Node.js on MongoDB: [egghead.io](https://egghead.io/courses/build-graphql-apis-with-node-js-on-mongodb?utm_source=drip&utm_medium=email&utm_term=graphql&utm_content=graphql-node-mongodb)
 
-## Blogs
+## Resources
+
+* The Little Book of GraphQL Schema Design**:** [site](https://book.graphqlschemadesign.com/)
+
+## ReBlogs
 
 * How to set-up a powerful API with Nodejs, GraphQL, MongoDB, Hapi, and Swagger: [blog](https://medium.freecodecamp.org/how-to-setup-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-e251ac189649)
-* Medium - [GraphQL: Everything You Need to Know](https://medium.com/@weblab_tech/graphql-everything-you-need-to-know-58756ff253d8)
+* GraphQL: Everything You Need to Know: [blog](https://medium.com/@weblab_tech/graphql-everything-you-need-to-know-58756ff253d8)
+* GraphQL Schema Design: Building Evolvable Schemas: [blog](https://dev-blog.apollodata.com/graphql-schema-design-building-evolvable-schemas-1501f3c59ed5)
 
 #### HackerNoon:-  [Alexander Kondov](https://hackernoon.com/@KondovAlexander?source=post_header_lockup)
 
