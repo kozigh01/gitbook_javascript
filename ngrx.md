@@ -8,5 +8,6 @@
 
 ### Blogs
 
-* How can I help my team love RxJS?: [blog ](https://medium.com/@m3po22/how-to-love-reactive-programming-and-not-hate-it-aed9d73db6ab)\| demo
+* [ ] How can I help my team love RxJS?: [blog ](https://medium.com/@m3po22/how-to-love-reactive-programming-and-not-hate-it-aed9d73db6ab)\| demo
+* [ ] Angular State Managment — Don’t fear the boilerplate: [blog](https://codeburst.io/state-management-in-angular-ee2ccb81c283)
 
