@@ -22,7 +22,7 @@
   * [ ] ES6: The Right Parts: [Course](https://www.linkedin.com/learning/es6-the-right-parts)
   * [x] ​Scrimba - ES6 & Beyond: [Course](https://scrimba.com/playlist/p4Mrt9)
 * Functional Programming:
-  [ ] Pluralsight: Functional JavaScript Libraries Playbook: [course](https://app.pluralsight.com/library/courses/functional-javascript-libraries-playbook/table-of-contents)
+  * * [ ] Pluralsight: Functional JavaScript Libraries Playbook: [course](https://app.pluralsight.com/library/courses/functional-javascript-libraries-playbook/table-of-contents)
   [ ] Pluralsight: Writing Functional Javascript Using Ramda: [Course](https://app.pluralsight.com/library/courses/javascript-ramda-functional/table-of-contents)
 
 ### Tutorials
