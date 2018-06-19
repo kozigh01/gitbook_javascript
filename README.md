@@ -11,8 +11,8 @@
   * [ ] ​LinkedInLearning - [Bootstrap 4 Essential Training](https://www.linkedin.com/learning/bootstrap-4-essential-training)​
   * [x] Scrimba: Learn Bootstrap 4: [Course](https://scrimba.com/g/gbootstrap4) \| [Code](https://github.com/kozigh01/scrimba_learn_bootstrap_4)
   * [x] Udemy: Learn Bootstrap 4: [Course](https://www.udemy.com/learn-bootstrap-4-by-example/learn/v4/content)
-  * [ ] ​[Udemy: Complete Bootstrap 4 course - build 3 projects](https://www.udemy.com/bootstrap-4-tutorials/learn/v4/overview)​
-  * [ ] ​[Coursetro: Learn Bootstrap 4](https://coursetro.com/posts/code/130/Learn-Bootstrap-4-Final-in-2018-with-our-Free-Crash-Course)​
+  * [ ] ​Udemy: Complete Bootstrap 4 course - build 3 projects​: [course](https://www.udemy.com/bootstrap-4-tutorials/learn/v4/overview)
+  * [ ] ​Coursetro: Learn Bootstrap 4​: [course](https://coursetro.com/posts/code/130/Learn-Bootstrap-4-Final-in-2018-with-our-Free-Crash-Course)
 * Coding the Smart Way \([site](https://codingthesmartway.com/)\)
   * [ ] Angular 6 - MEAN Stack Crash Course - Part 1: [video](https://www.youtube.com/watch?v=x2_bcCZg8vQ&feature=youtu.be)
 * CSS
