@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Blogs](blogs.md)
 * [Bootstrap](bootstrap.md)
+* [CSS](css.md)
 * [Running sample Javascript](running-sample-javascript.md)
 * [GraphQL](graphql.md)
 * [NgRX](ngrx.md)
