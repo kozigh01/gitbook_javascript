@@ -9,6 +9,9 @@
 
 ### Resources
 
+* Bootstrap 4 Docs: [site](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+  * Grid System: [breakpoints](https://getbootstrap.com/docs/4.1/layout/grid/#grid-options)
+
 [Material Design for Bootstrap 4](https://mdbootstrap.com/): [Tutorial](https://mdbootstrap.com/bootstrap-tutorial/)
 
 ### Blogs
