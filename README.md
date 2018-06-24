@@ -46,6 +46,7 @@
 * Fake API endpoint: [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 * fa2png.io \(Font Awesome to PNG\): [site](http://fa2png.io/) 
 * jsonplaceholder \(fake online rest\): [site](https://jsonplaceholder.typicode.com/)
+* json-server \(fake Rest Api\): [site](https://github.com/typicode/json-server)
 
 ## Misc
 
