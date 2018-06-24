@@ -43,10 +43,10 @@
 * open in browser: [vs code plugin](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) \| [youtube](https://www.youtube.com/watch?v=T8DrI6K8ArE)
 * http-server: [npm](https://www.npmjs.com/package/http-server)
 * bable repl: [online](http://babeljs.io/repl) \| [vs code plugin](https://marketplace.visualstudio.com/items?itemName=t-sauer.vscode-babel-repl)
-* Fake API endpoint: [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 * fa2png.io \(Font Awesome to PNG\): [site](http://fa2png.io/) 
 * jsonplaceholder \(fake online rest\): [site](https://jsonplaceholder.typicode.com/)
 * json-server \(fake Rest Api\): [site](https://github.com/typicode/json-server) \| [video](https://egghead.io/lessons/javascript-creating-demo-apis-with-json-server)
+* faker.js \(generate fake data\): [site](https://github.com/marak/Faker.js/)
 
 ## Misc
 
