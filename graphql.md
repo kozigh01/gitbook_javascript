@@ -8,11 +8,12 @@
 
 * The Little Book of GraphQL Schema Design**:** [site](https://book.graphqlschemadesign.com/)
 
-## ReBlogs
+## Blogs
 
 * How to set-up a powerful API with Nodejs, GraphQL, MongoDB, Hapi, and Swagger: [blog](https://medium.freecodecamp.org/how-to-setup-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-e251ac189649)
 * GraphQL: Everything You Need to Know: [blog](https://medium.com/@weblab_tech/graphql-everything-you-need-to-know-58756ff253d8)
 * GraphQL Schema Design: Building Evolvable Schemas: [blog](https://dev-blog.apollodata.com/graphql-schema-design-building-evolvable-schemas-1501f3c59ed5)
+* How GraphQL Replaces Redux: [blog](https://hackernoon.com/how-graphql-replaces-redux-3fff8289221d?mkt_tok=eyJpIjoiTURFM01XUmtaamxpTm1VMCIsInQiOiIrTXlld1NxOFpYcld2VUVxZjZjNDVETTZVOE9GV0UrVmNnZmJiMUhFUHF6aFwvcGpmOXRvQzVJOTZhSUdxZjdsOFNrakpEOGM2ODdzNTFGY05jbU5lZDg2UHlaekNEVDZqbHZwd0l6ZFdiNE5JWVpvTVwvWGlGTGg5eVhxUWRuSHluIn0%3D)
 
 #### HackerNoon:-  [Alexander Kondov](https://hackernoon.com/@KondovAlexander?source=post_header_lockup)
 
