@@ -17,6 +17,7 @@ description: Interesting blog posts with optional notes and code
 * [ ] 02 Immutability: [blog](https://hackernoon.com/functional-programming-paradigms-in-modern-javascript-immutability-4e9751ca005c)
 * [ ] 03 Function Composition: [blog](https://hackernoon.com/functional-programming-paradigms-in-modern-javascript-function-composition-109670038859)
 * [ ] 04 Currying: [blog](https://hackernoon.com/functional-programming-paradigms-in-modern-javascript-currying-5652e489cce8)
+* [ ] 05 Partial Application: [blog](https://hackernoon.com/functional-programming-paradigms-in-modern-javascript-partial-application-fbd6c9c93a0d)
 
 ### Elegant Patterns in Modern Javascript \(author: Bill Sourour\)
 
