@@ -6,6 +6,7 @@
 
 ## Resources
 
+* Facebook: [specification](http://facebook.github.io/graphql/)
 * How to GraphQL: [tutorials](https://www.howtographql.com/) \| [node](https://www.howtographql.com/graphql-js/0-introduction/)
 * The Little Book of GraphQL Schema Design**:** [site](https://book.graphqlschemadesign.com/)
 
