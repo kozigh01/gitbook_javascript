@@ -49,6 +49,7 @@
 * json-server \(fake Rest Api\): [site](https://github.com/typicode/json-server) \| [video](https://egghead.io/lessons/javascript-creating-demo-apis-with-json-server)
 * faker.js \(generate fake data\): [site](https://github.com/marak/Faker.js/)
 * open weather map api: [site](https://openweathermap.org/)
+* scoop \(software installer\): [site](https://scoop.sh/)
 
 ## Misc
 
