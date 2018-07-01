@@ -7,6 +7,7 @@
 * [ ] React vs Angular vs Vue.js by Example: [Course](https://www.udemy.com/react-vs-angular-vs-vuejs-by-example/learn/v4/overview)
 * [x] Learning App Building with Vanilla JavaScript: [Course](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript)
 * [x] LinkedInLearning - Javascript Prototypes: [Course](https://www.linkedin.com/learning/javascript-prototypes)
+* [x] LinkedInLearning - JavaScript: Closures: [course](https://www.linkedin.com/learning/javascript-closures)
 * Bootstrap
   * [ ] ​LinkedInLearning - [Bootstrap 4 Essential Training](https://www.linkedin.com/learning/bootstrap-4-essential-training)​
   * [x] Scrimba: Learn Bootstrap 4: [Course](https://scrimba.com/g/gbootstrap4) \| [Code](https://github.com/kozigh01/scrimba_learn_bootstrap_4)
@@ -47,6 +48,7 @@
 * jsonplaceholder \(fake online rest\): [site](https://jsonplaceholder.typicode.com/)
 * json-server \(fake Rest Api\): [site](https://github.com/typicode/json-server) \| [video](https://egghead.io/lessons/javascript-creating-demo-apis-with-json-server)
 * faker.js \(generate fake data\): [site](https://github.com/marak/Faker.js/)
+* open weather map api: [site](https://openweathermap.org/)
 
 ## Misc
 
