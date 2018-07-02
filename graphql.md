@@ -16,6 +16,7 @@
 * GraphQL: Everything You Need to Know: [blog](https://medium.com/@weblab_tech/graphql-everything-you-need-to-know-58756ff253d8)
 * GraphQL Schema Design: Building Evolvable Schemas: [blog](https://dev-blog.apollodata.com/graphql-schema-design-building-evolvable-schemas-1501f3c59ed5)
 * How GraphQL Replaces Redux: [blog](https://hackernoon.com/how-graphql-replaces-redux-3fff8289221d?mkt_tok=eyJpIjoiTURFM01XUmtaamxpTm1VMCIsInQiOiIrTXlld1NxOFpYcld2VUVxZjZjNDVETTZVOE9GV0UrVmNnZmJiMUhFUHF6aFwvcGpmOXRvQzVJOTZhSUdxZjdsOFNrakpEOGM2ODdzNTFGY05jbU5lZDg2UHlaekNEVDZqbHZwd0l6ZFdiNE5JWVpvTVwvWGlGTGg5eVhxUWRuSHluIn0%3D)
+* Write GraphQL APIs on Node with MongoDB: [blog](https://blog.bitsrc.io/write-graphql-apis-on-node-with-mongodb-f3d0084cbbb8)
 
 #### HackerNoon:-  [Alexander Kondov](https://hackernoon.com/@KondovAlexander?source=post_header_lockup)
 
