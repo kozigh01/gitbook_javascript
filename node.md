@@ -14,7 +14,7 @@
 ## Courses
 
 * [ ] Building APIs Using Hapi in Node.js: [course](https://www.linkedin.com/learning/building-apis-using-hapi-in-node-js) \| [github](https://github.com/synedra/hapi-api)
-* [ ] MongooseJS Essentials - Learn MongoDB for Node.js: [course](MongooseJS Essentials - Learn MongoDB for Node.js)
+* [ ] MongooseJS Essentials - Learn MongoDB for Node.js: [course](https://github.com/kozigh01/gitbook_javascript/tree/87f1fdc05a43c76dbbc4afdc1bca267b487467bd/MongooseJS%20Essentials%20-%20Learn%20MongoDB%20for%20Node.js)
 * [x] Hapi.js Framework Crash Course: [youtube ](https://www.youtube.com/watch?v=2lprC0yYeFw&feature=youtu.be)\| [github](https://github.com/kozigh01/hapijs_crashcourse)
 * [x] How to set-up a powerful API with Nodejs, GraphQL, MongoDB, Hapi, and Swagger​: [blog](https://medium.freecodecamp.org/how-to-setup-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-e251ac189649) \| [github](https://github.com/kozigh01/graphql_hapi_node)
 * [ ] JSON Web Token \(JWT\) Authentication with Node.js: [course](https://egghead.io/courses/json-web-token-jwt-authentication-with-node-js)
@@ -22,8 +22,7 @@
 ## Blogs
 
 * Nest 5: The official release 🚀 Node.js in 2018: [Blog](https://medium.com/@kammysliwiec/nest-5-the-official-release-node-js-in-2018-1b6d3a47b104)
-* [ ] 
-## NPM
+* [ ] **NPM**
 
 ### Helpful commands
 
