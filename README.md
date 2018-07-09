@@ -15,7 +15,10 @@
   * [ ] ​Udemy: Complete Bootstrap 4 course - build 3 projects​: [course](https://www.udemy.com/bootstrap-4-tutorials/learn/v4/overview)
   * [ ] ​Coursetro: Learn Bootstrap 4​: [course](https://coursetro.com/posts/code/130/Learn-Bootstrap-4-Final-in-2018-with-our-Free-Crash-Course)
 * Coding the Smart Way \([site](https://codingthesmartway.com/)\)
-  * [ ] Angular 6 - MEAN Stack Crash Course - Part 1: [video](https://www.youtube.com/watch?v=x2_bcCZg8vQ&feature=youtu.be)
+  * [ ] Angular 6 - MEAN Stack Crash Course:
+    * Part 1 - Front-end Project Setup and Routing: [youtube](https://codingthesmartway.com/angular-6-mean-stack-crash-course-part-1-front-end-project-setup-and-routing/)​
+    * Part 2: Implementing The Back-end: [youtube](https://www.youtube.com/watch?v=a30flH_q5-A)​
+    * Part 3: Connecting Front-end To Back-end: [youtube](https://www.youtube.com/watch?v=HTqghYMRrtA)​
 * CSS
   * Scrimba: Learn Flexbox: [Course](https://scrimba.com/g/gflexbox)
   * Scrimba: Learn CSS Grid: [Course](https://scrimba.com/g/gR8PTE)
