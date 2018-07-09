@@ -13,4 +13,10 @@
 * [ ] Angular State Managment — Don’t fear the boilerplate: [blog](https://codeburst.io/state-management-in-angular-ee2ccb81c283)
 * [ ] Angular University \([site](https://angular-university.io/)\):
   * [ ] Ngrx Store - An Architecture Guide: [blog](https://blog.angular-university.io/angular-ngrx-store-and-effects-crash-course/) \| [youtube](https://www.youtube.com/watch?v=nYkdrAPrdcw&feature=youtu.be) \(facebook\)
+  * [ ] Angular Service Layers: Redux, RxJs and Ngrx Store - When to Use a Store And Why?: [blog](https://blog.angular-university.io/angular-2-redux-ngrx-rxjs/)
+  * [ ] How to build Angular apps using Observable Data Services - Pitfalls to avoid: [blog](https://blog.angular-university.io/how-to-build-angular2-apps-using-rxjs-observable-data-services-pitfalls-to-avoid/)
+  * [ ] Angular Architecture - Container vs Presentational Components Common Design Pitfalls: [blog](https://blog.angular-university.io/angular-component-design-how-to-avoid-custom-event-bubbling-and-extraneous-properties-in-the-local-component-tree/)
+  * [ ] Angular Architecture - Smart Components vs Presentational Components: [blog](https://blog.angular-university.io/angular-2-smart-components-vs-presentation-components-whats-the-difference-when-to-use-each-and-why/)
+  * [ ] Angular Ngrx DevTools: Important Practical Tips: [blog](https://blog.angular-university.io/angular-ngrx-devtools/)
+  * [ ] Angular NgRx Entity - Complete Practical Guide: [blog](https://blog.angular-university.io/ngrx-entity/)
 
