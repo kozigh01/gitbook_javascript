@@ -6,3 +6,7 @@
 * Mongoose: [site](http://mongoosejs.com/)
 * mLab: [site](https://mlab.com/)
 
+## Courses
+
+* [ ] MongooseJS Essentials: [course](https://www.udemy.com/mongoosejs-essentials/learn/v4/overview)
+
