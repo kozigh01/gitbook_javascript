@@ -8,6 +8,10 @@
 * [x] Learning App Building with Vanilla JavaScript: [Course](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript)
 * [x] LinkedInLearning - Javascript Prototypes: [Course](https://www.linkedin.com/learning/javascript-prototypes)
 * [x] LinkedInLearning - JavaScript: Closures: [course](https://www.linkedin.com/learning/javascript-closures)
+* [x] Angular Basic Routing: [Code](https://github.com/kozigh01/angular-basic-routing) \| [Demo](https://stackblitz.com/github/kozigh01/angular-basic-routing)  
+* [x] Learning the Angular CLI: [Course](https://www.linkedin.com/learning/learning-the-angular-cli-2) \| [Notes](https://gist.github.com/kozigh01/37b52fc1362da677b953c957178ee703)  
+* [x] Angular: API Communication and Authentication \(LinkedInLearning\): [Course](https://www.linkedin.com/learning/angular-api-communication-and-authentication) \| [Code](https://github.com/kozigh01/AngularAPICommAndAuth) \| [Demo](https://stackblitz.com/github/kozigh01/AngularAPICommAndAuth/tree/master/my-app)  
+* [x] Angular 6 \(formerly Angular 2\) - The Complete Guide \(Udemy\): [Course](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/overview) \| [Code](https://github.com/kozigh01/AngularAPICommAndAuth)
 * Bootstrap
   * [ ] ​LinkedInLearning - [Bootstrap 4 Essential Training](https://www.linkedin.com/learning/bootstrap-4-essential-training)​
   * [x] Scrimba: Learn Bootstrap 4: [Course](https://scrimba.com/g/gbootstrap4) \| [Code](https://github.com/kozigh01/scrimba_learn_bootstrap_4)
