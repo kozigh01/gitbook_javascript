@@ -22,4 +22,9 @@
 
 * [Resources](angular/resources.md)
 * [Angular Project Setup](angular/angular-project-setup.md)
+* [Untitled](angular/untitled.md)
+
+## angular / courses
+
+* [Learning the Angular CLI](angular-courses/learning-the-angular-cli.md)
 
