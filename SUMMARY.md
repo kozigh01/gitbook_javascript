@@ -20,5 +20,5 @@
 
 ## Angular
 
-* [Untitled](angular/untitled.md)
+* [Resources](angular/resources.md)
 
