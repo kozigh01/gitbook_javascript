@@ -21,4 +21,5 @@
 ## Angular
 
 * [Resources](angular/resources.md)
+* [Angular Project Setup](angular/angular-project-setup.md)
 
