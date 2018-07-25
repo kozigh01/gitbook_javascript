@@ -48,6 +48,7 @@ description: Interesting blog posts with optional notes and code
 * [ ] Explaining Value vs. Reference in Javascript: [Blog](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
 * [ ] A minimal guide to ECMAScript Decorators: [blog](https://itnext.io/a-minimal-guide-to-ecmascript-decorators-55b70338215e)
 * [ ] JavaScript — Property Descriptor: [blog](https://codeburst.io/javascript-object-property-attributes-ac012be317e2)
+* [x] WTF is this - Understanding the this keyword, call, apply, and bind in JavaScript: [blog](https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/)
 
 
 
