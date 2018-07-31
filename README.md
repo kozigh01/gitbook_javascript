@@ -8,6 +8,7 @@
 * [x] Learning App Building with Vanilla JavaScript: [Course](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript)
 * [x] LinkedInLearning - Javascript Prototypes: [Course](https://www.linkedin.com/learning/javascript-prototypes)
 * [x] LinkedInLearning - JavaScript: Closures: [course](https://www.linkedin.com/learning/javascript-closures)
+* [x] LinkedInLearning - JavaScript: Classes: [course](https://www.linkedin.com/learning/javascript-classes-2)
 * [x] Angular Basic Routing: [Code](https://github.com/kozigh01/angular-basic-routing) \| [Demo](https://stackblitz.com/github/kozigh01/angular-basic-routing)  
 * [x] Learning the Angular CLI: [Course](https://www.linkedin.com/learning/learning-the-angular-cli-2) \| [Notes](https://gist.github.com/kozigh01/37b52fc1362da677b953c957178ee703)  
 * [x] Angular: API Communication and Authentication \(LinkedInLearning\): [Course](https://www.linkedin.com/learning/angular-api-communication-and-authentication) \| [Code](https://github.com/kozigh01/AngularAPICommAndAuth) \| [Demo](https://stackblitz.com/github/kozigh01/AngularAPICommAndAuth/tree/master/my-app)  
