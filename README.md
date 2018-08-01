@@ -40,11 +40,13 @@
 
 * [ ] [Material Design for Bootstrap 4](https://mdbootstrap.com/): [Tutorial](https://mdbootstrap.com/bootstrap-tutorial/)  
 * [ ] Pusher.com: [Build a polling web app with Next.js](https://pusher.com/tutorials/polling-web-app-nextjs)  
+* [ ] Dan Whalen: [Angular Architecture](https://docs.google.com/presentation/d/1p-b06uKuL4swn7DKKJKPTVgAomO6Qjh6uUeOFdzRpmw/edit#slide=id.g37900083ac_0_0)
 
 ## Libraries
 
 * immutable: [site](https://facebook.github.io/immutable-js/)
 * Font Awesome: [site](https://fontawesome.com/)
+* ngx-auto-unsubscribe: [github](https://github.com/NetanelBasal/ngx-auto-unsubscribe)
 
 ## Tools
 
