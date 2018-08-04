@@ -48,6 +48,9 @@
 * immutable: [site](https://facebook.github.io/immutable-js/)
 * Font Awesome: [site](https://fontawesome.com/)
 * ngx-auto-unsubscribe: [github](https://github.com/NetanelBasal/ngx-auto-unsubscribe)
+* Local Storage:
+  * [localforage](https://localforage.github.io/localForage/)
+  * [dexie.js](http://dexie.org/) : indexed db wrapper
 
 ## Tools
 

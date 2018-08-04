@@ -4,14 +4,14 @@
 * [Blogs](blogs.md)
 * [Bootstrap](bootstrap.md)
 * [CSS](css.md)
-* [Running sample Javascript](running-sample-javascript.md)
 * [GraphQL](graphql.md)
+* [Mongo](mongo.md)
 * [NgRX](ngrx.md)
 * [Node](node.md)
-* [Mongo](mongo.md)
+* [React / Redux](react-redux.md)
 * [RxJS](rxjs.md)
 * [Vanilla Javascript](vanilla-javascript.md)
-* [React / Redux](react-redux.md)
+* [Running sample Javascript](running-sample-javascript.md)
 
 ## Functional Programming
 
