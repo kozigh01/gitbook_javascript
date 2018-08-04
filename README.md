@@ -50,8 +50,9 @@
 * ngx-auto-unsubscribe: [github](https://github.com/NetanelBasal/ngx-auto-unsubscribe)
 * Local Storage:
   * [localforage](https://localforage.github.io/localForage/)
-  * [dexie.js](http://dexie.org/) : indexed db wrapper \(recommended by Emmanuel Henri\)
+  * [dexie.js](http://dexie.org/) : IndexedDB wrapper \(recommended by Emmanuel Henri\)
   * [ZangoDB](https://github.com/erikolson186/zangodb)
+  * [JsStore](http://jsstore.net/): IndexedDB wrapper
 
 ## Tools
 
