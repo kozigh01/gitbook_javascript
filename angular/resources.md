@@ -1,7 +1,3 @@
----
-description: Angular Resources and Examples
----
-
 # Resources
 
 ## Resource Links
