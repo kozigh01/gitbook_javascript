@@ -51,5 +51,9 @@ description: Interesting blog posts with optional notes and code
 * [x] WTF is this - Understanding the this keyword, call, apply, and bind in JavaScript: [blog](https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/)
 * [x] JavaScript Weekly: Fundamental Object Design Patterns: [blog](https://medium.com/launch-school/javascript-weekly-fundamental-object-design-patterns-31453f68427f)
 
+### Javascript Weekly
+
+* [x] Fundamental Object Design Patterns: [blog](https://medium.com/launch-school/javascript-weekly-fundamental-object-design-patterns-31453f68427f)
+
 
 
