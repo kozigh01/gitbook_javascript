@@ -2,7 +2,7 @@
 
 ## Courses
 
-* [ ] Javascript 30 - build 30 things in 30 days: [course](https://javascript30.com/)
+* [ ] Javascript 30 - build 30 things in 30 days: [course](https://javascript30.com/) \| [blog](https://medium.com/employbl/30-things-i-learned-from-javascript-30-fa37d554bfca)
 * [ ] Asynchronous Programming in JavaScript with Rx.js Observables: [Course](https://app.pluralsight.com/library/courses/asynchronous-javascript-rxjs-observables/table-of-contents)
 * [ ] The good parts of Javascript and the Web: [Course](https://www.linkedin.com/learning/the-good-parts-of-javascript-and-the-web/scope)
 * [ ] React vs Angular vs Vue.js by Example: [Course](https://www.udemy.com/react-vs-angular-vs-vuejs-by-example/learn/v4/overview)
