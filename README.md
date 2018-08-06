@@ -36,6 +36,8 @@
 * Functional Programming:
   * [ ] Pluralsight: Functional JavaScript Libraries Playbook: [course](https://app.pluralsight.com/library/courses/functional-javascript-libraries-playbook/table-of-contents)
   * [ ] Pluralsight: Writing Functional Javascript Using Ramda: [Course](https://app.pluralsight.com/library/courses/javascript-ramda-functional/table-of-contents)
+* Typescript:
+  * [ ] Scrimba - Introduction to Typescript: [course](https://scrimba.com/g/gintrototypescript)
 
 ## Tutorials
 
