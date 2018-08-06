@@ -49,6 +49,7 @@ description: Interesting blog posts with optional notes and code
 * [ ] A minimal guide to ECMAScript Decorators: [blog](https://itnext.io/a-minimal-guide-to-ecmascript-decorators-55b70338215e)
 * [ ] JavaScript — Property Descriptor: [blog](https://codeburst.io/javascript-object-property-attributes-ac012be317e2)
 * [x] WTF is this - Understanding the this keyword, call, apply, and bind in JavaScript: [blog](https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/)
+* [x] JavaScript Weekly: Fundamental Object Design Patterns: [blog](https://medium.com/launch-school/javascript-weekly-fundamental-object-design-patterns-31453f68427f)
 
 
 
