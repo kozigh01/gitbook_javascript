@@ -6,6 +6,7 @@
 * [ ] Asynchronous Programming in JavaScript with Rx.js Observables: [Course](https://app.pluralsight.com/library/courses/asynchronous-javascript-rxjs-observables/table-of-contents)
 * [ ] The good parts of Javascript and the Web: [Course](https://www.linkedin.com/learning/the-good-parts-of-javascript-and-the-web/scope)
 * [ ] React vs Angular vs Vue.js by Example: [Course](https://www.udemy.com/react-vs-angular-vs-vuejs-by-example/learn/v4/overview)
+* [ ] LinkedInLearning - Mastering Functional JavaScript Libraries: [course](https://www.linkedin.com/learning/mastering-functional-javascript-libraries)
 * [x] LinkedInLearning - Learning App Building with Vanilla JavaScript: [Course](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript)
 * [x] LinkedInLearning - Javascript Prototypes: [Course](https://www.linkedin.com/learning/javascript-prototypes)
 * [x] LinkedInLearning - JavaScript: Closures: [course](https://www.linkedin.com/learning/javascript-closures)
