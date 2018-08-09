@@ -57,6 +57,10 @@
   * [dexie.js](http://dexie.org/) : IndexedDB wrapper \(recommended by Emmanuel Henri\)
   * [ZangoDB](https://github.com/erikolson186/zangodb)
   * [JsStore](http://jsstore.net/): IndexedDB wrapper
+* Functional:
+  * [underscore.js](https://underscorejs.org/)
+  * [lowdash](https://lodash.com/)
+  * 
 
 ## Tools
 
