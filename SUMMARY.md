@@ -27,5 +27,4 @@
 ## angular / courses
 
 * [Learning the Angular CLI](angular-courses/learning-the-angular-cli.md)
-* [Untitled](angular-courses/untitled.md)
 
