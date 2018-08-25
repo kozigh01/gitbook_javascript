@@ -17,6 +17,11 @@
 * GraphQL Schema Design: Building Evolvable Schemas: [blog](https://dev-blog.apollodata.com/graphql-schema-design-building-evolvable-schemas-1501f3c59ed5)
 * How GraphQL Replaces Redux: [blog](https://hackernoon.com/how-graphql-replaces-redux-3fff8289221d?mkt_tok=eyJpIjoiTURFM01XUmtaamxpTm1VMCIsInQiOiIrTXlld1NxOFpYcld2VUVxZjZjNDVETTZVOE9GV0UrVmNnZmJiMUhFUHF6aFwvcGpmOXRvQzVJOTZhSUdxZjdsOFNrakpEOGM2ODdzNTFGY05jbU5lZDg2UHlaekNEVDZqbHZwd0l6ZFdiNE5JWVpvTVwvWGlGTGg5eVhxUWRuSHluIn0%3D)
 * Write GraphQL APIs on Node with MongoDB: [blog](https://blog.bitsrc.io/write-graphql-apis-on-node-with-mongodb-f3d0084cbbb8)
+* rwierch series:
+  * part1: [Why GraphQL: Advantages, Disadvantages & Alternatives](https://www.robinwieruch.de/why-graphql-advantages-disadvantages-alternatives/)
+  * part2: [Why Apollo: Advantages, Disadvantages & Alternatives](https://www.robinwieruch.de/why-apollo-advantages-disadvantages-alternatives/)
+  * part3: [The minimal Node.js with Babel Setup](https://www.robinwieruch.de/minimal-node-js-babel-setup/)
+  * part4: [GraphQL Server Tutorial with Apollo Server and Express](https://www.robinwieruch.de/graphql-apollo-server-tutorial/)
 
 #### HackerNoon:-  [Alexander Kondov](https://hackernoon.com/@KondovAlexander?source=post_header_lockup)
 
