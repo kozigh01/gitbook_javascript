@@ -11,6 +11,7 @@
 * [x] LinkedInLearning - Javascript Prototypes: [Course](https://www.linkedin.com/learning/javascript-prototypes)
 * [x] LinkedInLearning - JavaScript: Closures: [course](https://www.linkedin.com/learning/javascript-closures)
 * [x] LinkedInLearning - JavaScript: Classes: [course](https://www.linkedin.com/learning/javascript-classes-2)
+* [x] LinkedInLearning - JavaScript: Scope: [course](https://www.linkedin.com/learning/javascript-scope)
 * [x] LinkedInLearning - Vanilla JavaScript: Client-Side Data Storage: [course](https://www.linkedin.com/learning/vanilla-javascript-client-side-data-storage) \| [code](https://1drv.ms/f/s!Ald4NWZmTvEcnrx96zYSBt6UVRvBeA)
 * [x] Angular Basic Routing: [Code](https://github.com/kozigh01/angular-basic-routing) \| [Demo](https://stackblitz.com/github/kozigh01/angular-basic-routing)  
 * [x] Learning the Angular CLI: [Course](https://www.linkedin.com/learning/learning-the-angular-cli-2) \| [Notes](https://gist.github.com/kozigh01/37b52fc1362da677b953c957178ee703)  
