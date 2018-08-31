@@ -41,7 +41,7 @@
   * [ ] Pluralsight: Writing Functional Javascript Using Ramda: [Course](https://app.pluralsight.com/library/courses/javascript-ramda-functional/table-of-contents)
 * Typescript:
   * [ ] Scrimba - Introduction to Typescript: [course](https://scrimba.com/g/gintrototypescript)
-  * [ ] LinkedInLearning - TypeScript: Upgrades and Features: [course](https://www.linkedin.com/learning/typescript-upgrades-and-features)
+  * [x] LinkedInLearning - TypeScript: Upgrades and Features: [course](https://www.linkedin.com/learning/typescript-upgrades-and-features)
 
 ## Tutorials
 
