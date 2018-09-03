@@ -27,6 +27,7 @@
   * [x] Creating an Observable with Angular — Part I: a basic example: [Blog](https://medium.com/front-end-hacking/creating-an-observable-with-angular-part-i-a-basic-example-3302f1f87b52)
   * [x] Creating an Observable with Angular — Part II: the 4 different types: [Blog](https://medium.com/front-end-hacking/creating-an-observable-with-angular-part-ii-the-4-different-types-3d8fd2835850)
 * [ ] Working with Axios and RxJS to make simple HTTP library: [blog](https://itnext.io/working-with-axios-and-rxjs-to-make-simple-ajax-service-module-6fda9ecdaf9f)
+* [ ] switchMap, mergeMap, concatMap \(and exhaustMap\): [blog](https://blog.angular-university.io/rxjs-higher-order-mapping/)
 
 ### Marbles
 
