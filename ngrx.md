@@ -7,6 +7,10 @@
 * NgRX store-devtools: [git ](https://github.com/ngrx/platform/blob/master/docs/store-devtools/README.md)\| [youtube](https://www.youtube.com/watch?v=70ojPxMA7Ig)
 * [ngx-reduxor](https://blog.cloudboost.io/ngx-reduxor-generate-a-complete-ngrx-architecture-in-one-command-574e3ea76f2d): NgRX generator
 
+### Courses
+
+* [ ] Angular 6: The complete guide \([site](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/content)\): [NgRx section](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/7789410?start=0)
+
 ### Blogs
 
 * [ ] How can I help my team love RxJS?: [blog ](https://medium.com/@m3po22/how-to-love-reactive-programming-and-not-hate-it-aed9d73db6ab)\| demo
