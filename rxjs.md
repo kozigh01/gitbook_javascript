@@ -15,6 +15,10 @@
 * Rx Vizualizer: [RxViz](https://rxviz.com/examples/basic-interval)
 * [learnrxjs.io](https://www.learnrxjs.io/)
 
+### Courses / Videos
+
+* Academind: [SwitchMap](https://www.youtube.com/watch?v=6lKoLwGlglE), [MergeMap](https://www.youtube.com/watch?v=b59tcUwfpWU), [RxJS 6](https://www.youtube.com/watch?v=X9fdpGthrXA), [youtube](https://www.youtube.com/results?search_query=academind+rxjs)
+
 ### Blogs
 
 * [ ] A Super Ninja Trick To Learn RxJS’s “switchMap”: [Blog](https://medium.com/@shairez/a-super-ninja-trick-to-learn-rxjss-switchmap-mergemap-concatmap-and-exhaustmap-forever-88e178a75f1b)
