@@ -26,6 +26,7 @@
   * Auth0: RxJS 6: [What's new and what has changed](https://auth0.com/blog/whats-new-in-rxjs-6/)​
   * Convert deprecated methods: [link](https://github.com/ReactiveX/rxjs/blob/master/docs_app/content/guide/v6/migration.md#dep-methods)
   * Migrating Angular Apps to RxJS v6 Best Practices: [youtube](https://www.youtube-nocookie.com/embed/w35u1TIhxhc?rel=0&showinfo=1&enablejsapi=1&modestbranding=1)
+  * Updating to RxJS 6+ \(Udemy course video\): [video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/5768540?start=0)
 
 ## Courses
 
@@ -34,6 +35,7 @@
 * [ ] Angular: API Communication and Authentication \(LinkedInLearning\): [course](https://www.linkedin.com/learning/angular-api-communication-and-authentication)
 * [ ] Angular NgRx: Getting Started: [course](https://app.pluralsight.com/library/courses/angular-ngrx-getting-started/table-of-contents) \| [blog](https://blogs.msmvps.com/deborahk/angular-ngrx-getting-started-problem-solver/) \| [course github](https://github.com/DeborahK/Angular-NgRx-GettingStarted)
 * [ ] Angular Workflows: [course](https://www.linkedin.com/learning/angular-workflows)
+* [ ] Angular 6 Animations From Scratch: [course](https://codingthesmartway.com/angular-6-animations-from-scratch/)
 * Angular: Routing \(LinkedInLearning\): [course](https://www.linkedin.com/learning/angular-routing/routing-modularization-and-lazy-loading)
 * Learning Angular \(LinkedInLearning\): [course](https://www.linkedin.com/learning/learning-angular)
 * Angular Material: [course](https://app.pluralsight.com/library/courses/angular-material/table-of-contents)
