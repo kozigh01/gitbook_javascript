@@ -7,6 +7,7 @@
 * NgRX store-devtools: [git ](https://github.com/ngrx/platform/blob/master/docs/store-devtools/README.md)\| [youtube](https://www.youtube.com/watch?v=70ojPxMA7Ig) \| [video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/7789600?start=0)
 * NgRX redux devtools: [chrome extension](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en) \| [video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/7789600?start=0)
 * [ngx-reduxor](https://blog.cloudboost.io/ngx-reduxor-generate-a-complete-ngrx-architecture-in-one-command-574e3ea76f2d): NgRX generator
+* Udemy course: [ngrx resources](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/7794368?start=0)
 
 ### Courses
 

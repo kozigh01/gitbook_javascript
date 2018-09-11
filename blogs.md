@@ -32,6 +32,7 @@ description: Interesting blog posts with optional notes and code
 * Material Design Components For Angular Part 2: Popups & Modals: [blog ](https://codingthesmartway.com/angular-material-part-2-popups-modals-dialogs-tooltips-and-snackbars/)\| [youtube](https://www.youtube.com/watch?v=xJJ_NDqvuCk&feature=youtu.be)
 * Material Design Components For Angular Part 3: Navigation: [blog ](https://codingthesmartway.com/angular-material-part-3-navigation-menus-sidenavs-and-toolbars/)\| [youtube](https://www.youtube.com/watch?v=-k73oWFrRoE&feature=youtu.be)
 * Material Design Components For Angular  Part 4: Data Table: [blog ](https://codingthesmartway.com/angular-material-part-4-data-table/)\| [youtube](https://codingthesmartway.com/angular-material-part-4-data-table/)
+* Angular 6 Animations From Scratch: [youtube](https://codingthesmartway.com/angular-6-animations-from-scratch/)
 
 ### ES6
 
