@@ -25,4 +25,5 @@
   * [ ] Angular Architecture - Smart Components vs Presentational Components: [blog](https://blog.angular-university.io/angular-2-smart-components-vs-presentation-components-whats-the-difference-when-to-use-each-and-why/)
   * [ ] Angular Ngrx DevTools: Important Practical Tips: [blog](https://blog.angular-university.io/angular-ngrx-devtools/)
   * [ ] Angular NgRx Entity - Complete Practical Guide: [blog](https://blog.angular-university.io/ngrx-entity/)
+  * [ ] Angular Ngrx DevTools: Important Practical Tips: [blog](https://blog.angular-university.io/angular-ngrx-devtools/)
 
