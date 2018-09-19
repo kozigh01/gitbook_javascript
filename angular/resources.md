@@ -49,6 +49,11 @@
     * [ ] Part 1 - Front-end Project Setup and Routing: [youtube](https://codingthesmartway.com/angular-6-mean-stack-crash-course-part-1-front-end-project-setup-and-routing/)
     * [ ] Part 2: Implementing The Back-end: [youtube](https://www.youtube.com/watch?v=a30flH_q5-A)
     * [ ] Part 3: Connecting Front-end To Back-end: [youtube](https://www.youtube.com/watch?v=HTqghYMRrtA)
+* [ ] The Angular Library Series:
+  * [ ] Creating a Library with the Angular CLI: [blog](https://blog.angularindepth.com/creating-a-library-in-angular-6-87799552e7e5)
+  * [ ] Building and Packaging: [blog](https://blog.angularindepth.com/creating-a-library-in-angular-6-part-2-6e2bc1e14121)
+  * [ ] Publishing: [blog](https://blog.angularindepth.com/the-angular-library-series-publishing-ce24bb673275)
+  * [ ] Dependencies: ???
 
 ## Blog Posts
 
