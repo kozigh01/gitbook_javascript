@@ -1,5 +1,9 @@
 # Introduction
 
+## Resources
+
+* HTTP Reference \(status codes, mime types, headers\): [link](https://code-maze.com/the-http-reference/#statuscodes)
+
 ## Courses
 
 * [ ] Javascript 30 - build 30 things in 30 days: [course](https://javascript30.com/) \| [blog](https://medium.com/employbl/30-things-i-learned-from-javascript-30-fa37d554bfca)
