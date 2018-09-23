@@ -1,8 +1,10 @@
-# Node
+# Node / NPM
 
 ## Resources
 
 * Node.js: [site](https://nodejs.org/en/)
+* Npm: [site](https://www.npmjs.com/)
+  * How to publish & update package: [site](https://docs.npmjs.com/getting-started/publishing-npm-packages)
 * Nest.js: [Site](https://nestjs.com/) \| [Docs](https://docs.nestjs.com/) \| [Git](https://github.com/nestjs/nest)
 * Azure:
   * Azure for Node.js developers: [site](https://docs.microsoft.com/en-us/javascript/azure/?view=azure-node-latest)
