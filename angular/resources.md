@@ -14,6 +14,15 @@
 * Testing - shallow-render: [Git](https://github.com/getsaf/shallow-render)
 * Angular in memory web api: [git](https://github.com/angular/in-memory-web-api)
 * Angular First Looks: [course ](https://app.pluralsight.com/library/courses/angular-2-first-look/table-of-contents)\| [samples](https://angular2-first-look.azurewebsites.net/)
+* Analyzing Angular Build Artifacts:
+  * webpack-bundle-analyzer: [npm](https://www.npmjs.com/package/webpack-bundle-analyzer)
+    * npm install --save-dev webpack-bundle-analyzer
+    * ng build --stats-json
+    * npx webpack-bundle-analyzer dist/my-app/stats.json
+  * source-map-explorer: npm
+    * npm install source-map-explorer --save-dev
+    * ng build
+    * npx source-map-explorer dist/my-app/main.js
 
 ### Angular 5 -&gt; 6 Migration
 
@@ -31,7 +40,8 @@
 
 ## Courses
 
-* [x] Learning the Angular CLI \(LinkedInLearning\): [course](https://www.linkedin.com/learning/learning-the-angular-cli-2)
+* [x] LinkedInLearning: Learning the Angular CLI \(LinkedInLearning\): [course](https://www.linkedin.com/learning/learning-the-angular-cli-2)
+* [x] Pluralsight: Angular CLI \(John Papa\): [course](https://app.pluralsight.com/library/courses/angular-cli/table-of-contents)
 * [ ] Angular 6 \(formerly Angular 2\) - The Complete Guide \(Udemy\): [course](https://www.udemy.com/the-complete-guide-to-angular-2)
 * [ ] Angular: API Communication and Authentication \(LinkedInLearning\): [course](https://www.linkedin.com/learning/angular-api-communication-and-authentication)
 * [ ] Angular NgRx: Getting Started: [course](https://app.pluralsight.com/library/courses/angular-ngrx-getting-started/table-of-contents) \| [blog](https://blogs.msmvps.com/deborahk/angular-ngrx-getting-started-problem-solver/) \| [course github](https://github.com/DeborahK/Angular-NgRx-GettingStarted)
