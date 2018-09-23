@@ -3,7 +3,7 @@
 ## Resource Links
 
 * [Angular](https://angular.io/)
-* Angular Update Guide: [site](https://update.angular.io/)
+* Angular Update Guide: [site](https://update.angular.io/) \| [update.angular.io](https://update.angular.io/)
 * [Angular Material Design](https://material.angular.io/)
 * [Angular Project Setup Notes](https://gist.github.com/kozigh01/769a0f1dcd5ff1af335a00d228b9075c)  
 * [Angular University](https://angular-university.io/)
