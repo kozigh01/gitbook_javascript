@@ -13,6 +13,7 @@
 * [ng-conf youtube](https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA): 2018
 * Testing - shallow-render: [Git](https://github.com/getsaf/shallow-render)
 * Angular in memory web api: [git](https://github.com/angular/in-memory-web-api)
+* Angular First Looks: [course ](https://app.pluralsight.com/library/courses/angular-2-first-look/table-of-contents)\| [samples](https://angular2-first-look.azurewebsites.net/)
 
 ### Angular 5 -&gt; 6 Migration
 
