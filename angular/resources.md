@@ -43,7 +43,8 @@
 
 * [x] LinkedInLearning: Learning the Angular CLI \(LinkedInLearning\): [course](https://www.linkedin.com/learning/learning-the-angular-cli-2)
 * [x] Pluralsight: Angular CLI \(John Papa\): [course](https://app.pluralsight.com/library/courses/angular-cli/table-of-contents)
-* [ ] Angular 6 \(formerly Angular 2\) - The Complete Guide \(Udemy\): [course](https://www.udemy.com/the-complete-guide-to-angular-2)
+* [x] Pluralsight: Angular Architecture and Best Practices \(Wahlin\): course
+* [x] Angular 6 \(formerly Angular 2\) - The Complete Guide \(Udemy\): [course](https://www.udemy.com/the-complete-guide-to-angular-2)
 * [ ] Angular: API Communication and Authentication \(LinkedInLearning\): [course](https://www.linkedin.com/learning/angular-api-communication-and-authentication)
 * [ ] Angular NgRx: Getting Started: [course](https://app.pluralsight.com/library/courses/angular-ngrx-getting-started/table-of-contents) \| [blog](https://blogs.msmvps.com/deborahk/angular-ngrx-getting-started-problem-solver/) \| [course github](https://github.com/DeborahK/Angular-NgRx-GettingStarted)
 * [ ] Angular Workflows: [course](https://www.linkedin.com/learning/angular-workflows)
