@@ -45,6 +45,7 @@
 * [x] Pluralsight: Angular CLI \(John Papa\): [course](https://app.pluralsight.com/library/courses/angular-cli/table-of-contents)
 * [x] Pluralsight: Angular Architecture and Best Practices \(Wahlin\): [course](https://app.pluralsight.com/library/courses/angular-architecture-best-practices/table-of-contents)
 * [x] Pluralsight: Angular Http Communication \(Bryce Wilson\): [course](https://app.pluralsight.com/library/courses/angular-http-communication/table-of-contents)
+* [ ] Pluralsight: Angular Services \(Bryce Wilson\): [course](https://app.pluralsight.com/library/courses/angular-services/table-of-contents)
 * [x] Angular 6 \(formerly Angular 2\) - The Complete Guide \(Udemy\): [course](https://www.udemy.com/the-complete-guide-to-angular-2)
 * [ ] Angular: API Communication and Authentication \(LinkedInLearning\): [course](https://www.linkedin.com/learning/angular-api-communication-and-authentication)
 * [ ] Angular NgRx: Getting Started: [course](https://app.pluralsight.com/library/courses/angular-ngrx-getting-started/table-of-contents) \| [blog](https://blogs.msmvps.com/deborahk/angular-ngrx-getting-started-problem-solver/) \| [course github](https://github.com/DeborahK/Angular-NgRx-GettingStarted)
