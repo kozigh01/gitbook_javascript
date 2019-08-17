@@ -3,6 +3,7 @@
 ## Courses
 
 * [ ]  Build GraphQL APIs with Node.js on MongoDB: [egghead.io](https://egghead.io/courses/build-graphql-apis-with-node-js-on-mongodb?utm_source=drip&utm_medium=email&utm_term=graphql&utm_content=graphql-node-mongodb)
+* [ ] The Modern GraphQL Bootcamp (with Node.js and Apollo): [udemy](https://www.udemy.com/graphql-bootcamp/)
 
 ## Resources
 
