@@ -9,4 +9,5 @@
 ## Courses
 
 * [ ] MongooseJS Essentials: [course](https://www.udemy.com/mongoosejs-essentials/learn/v4/overview)
-
+* [x] MongoDB Basics: [M001](https://university.mongodb.com/mercury/M001/2017_November/overview)
+* [x] MongoDB Aggregation Framework: [M121](https://university.mongodb.com/mercury/M001/2017_November/overview)
