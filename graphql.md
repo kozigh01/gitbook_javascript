@@ -1,9 +1,12 @@
 # GraphQL
 
+* [ ] Build GraphQL APIs with Node.js on MongoDB: [egghead.io](https://egghead.io/courses/build-graphql-apis-with-node-js-on-mongodb?utm_source=drip&utm_medium=email&utm_term=graphql&utm_content=graphql-node-mongodb)
+* [x] The Modern GraphQL Bootcamp \(with Node.js and Apollo\): [udemy](https://www.udemy.com/graphql-bootcamp/)
+
 ## Courses
 
-* [ ]  Build GraphQL APIs with Node.js on MongoDB: [egghead.io](https://egghead.io/courses/build-graphql-apis-with-node-js-on-mongodb?utm_source=drip&utm_medium=email&utm_term=graphql&utm_content=graphql-node-mongodb)
-* [x] The Modern GraphQL Bootcamp (with Node.js and Apollo): [udemy](https://www.udemy.com/graphql-bootcamp/)
+* [ ] Build GraphQL APIs with Node.js on MongoDB: [egghead.io](https://egghead.io/courses/build-graphql-apis-with-node-js-on-mongodb?utm_source=drip&utm_medium=email&utm_term=graphql&utm_content=graphql-node-mongodb)
+* [x] The Modern GraphQL Bootcamp \(with Node.js and Apollo\): [udemy](https://www.udemy.com/graphql-bootcamp/)
 
 ## Resources
 
@@ -24,7 +27,7 @@
   * part3: [The minimal Node.js with Babel Setup](https://www.robinwieruch.de/minimal-node-js-babel-setup/)
   * part4: [GraphQL Server Tutorial with Apollo Server and Express](https://www.robinwieruch.de/graphql-apollo-server-tutorial/)
 
-#### HackerNoon:-  [Alexander Kondov](https://hackernoon.com/@KondovAlexander?source=post_header_lockup)
+### HackerNoon:-  [Alexander Kondov](https://hackernoon.com/@KondovAlexander?source=post_header_lockup)
 
 * [ ] 01 Wiring up a GraphQL server with Node and Express: [blog](https://hackernoon.com/wiring-up-a-graphql-server-with-node-and-express-9d00489da4be)
 * [ ] 02 Advanced querying with GraphQL and Express: [blog](https://hackernoon.com/advanced-querying-with-graphql-and-express-8cf2fd05f5ea)

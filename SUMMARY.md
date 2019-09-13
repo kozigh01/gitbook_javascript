@@ -12,6 +12,7 @@
 * [RxJS](rxjs.md)
 * [Vanilla Javascript](vanilla-javascript.md)
 * [Running sample Javascript](running-sample-javascript.md)
+* [Vue.js](vue.js.md)
 
 ## Functional Programming
 
