@@ -6,6 +6,6 @@
 
 ## Training
 
-* [ ] vuemastery: Intro to Vue - [video](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/)
+* [ ] vuemastery - Intro to Vue: [video](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/)
 
 
